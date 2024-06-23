@@ -41,7 +41,7 @@ jobs:
           - example.com
         version:
           - 18
-          - 20
+          # - 20
     steps:
     - name: Checkout
       uses: actions/checkout@v4
